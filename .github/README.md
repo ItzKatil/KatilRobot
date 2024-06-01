@@ -21,7 +21,7 @@
   <img src="https://te.legra.ph/file/48e7bc019fa24d81925d2.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥Katil🍷Robot𝄟⃟🥀](https://t.me/ItzKatil)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥Katil🍷Robot𝄟⃟🥀](https://t.me/Itz_Kaatil)
 ━━━━━━━━━━━━━━━━━━━━
 
 

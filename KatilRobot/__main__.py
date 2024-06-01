@@ -93,7 +93,7 @@ PM_START_TEXT = """
 
 ╔═════۩۞Katil۞۩════╗
       
-♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/ItzKatil)═══♥                                                                                                                                                                                                 
+♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/Itz_Kaatil)═══♥                                                                                                                                                                                                 
 
 ╚═════۩۞Katil۞۩════╝
 
@@ -468,7 +468,7 @@ def Katil_about_callback(update: Update, context: CallbackContext):
 	   
 					 
                         InlineKeyboardButton(
-                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"https://t.me/ItzKatil"
+                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"https://t.me/Itz_Kaatil"
                         ),
                         InlineKeyboardButton(
                             text="✨𝐑𝐄𝐏𝐎✨", 
@@ -500,7 +500,7 @@ def Katil_about_callback(update: Update, context: CallbackContext):
 def Music_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "Music_":
-        query.message.edit_text(f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [Legend](https://t.me/ItzKatil)............☆ 💞**""",
+        query.message.edit_text(f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [Legend](https://t.me/Itz_Kaatil)............☆ 💞**""",
 															
 	
             parse_mode=ParseMode.MARKDOWN,
@@ -605,7 +605,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -637,7 +637,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -676,7 +676,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -711,7 +711,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -734,7 +734,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇʀ ᴜsᴇʀs.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -809,7 +809,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /play : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -859,7 +859,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 										  
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -887,7 +887,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 														
 															
 """,
@@ -926,7 +926,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /logs [ɴᴜᴍʙᴇʀ ᴏғ ʟɪɴᴇs] : ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʙᴏᴛ [ᴅᴇғᴀᴜʟᴛ ᴠᴀʟᴜᴇ ɪs 100 ʟɪɴᴇs]
 
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -956,7 +956,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
 
-💜............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............💜""",
+💜............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............💜""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -1205,7 +1205,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != {OWNER_ID} and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [Katil](https://t.me/ItzKatil)"
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [Katil](https://t.me/Itz_Kaatil)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
@@ -1270,7 +1270,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗞𝗔𝗧𝗜𝗟](https://t.me/ItzKatil)♨️
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗞𝗔𝗧𝗜𝗟](https://t.me/Itz_Kaatil)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 									   

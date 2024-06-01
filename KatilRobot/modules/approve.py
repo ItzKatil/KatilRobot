@@ -203,7 +203,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴍɪɢʜᴛ ᴛʀᴜsᴛ ᴀ ᴜsᴇʀ ɴᴏ�
 ❍ /approved *:* ʟɪsᴛ ᴀʟʟ ᴀᴘᴘʀᴏᴠᴇᴅ ᴜsᴇʀs.
 ❍ /unapproveall *:* ᴜɴᴀᴘᴘʀᴏᴠᴇ *ᴀʟʟ* ᴜsᴇʀs ɪɴ ᴀ ᴄʜᴀᴛ. ᴛʜɪs ᴄᴀɴɴᴏᴛ ʙᴇ ᴜɴᴅᴏɴᴇ.
 
-☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve, run_async=True)

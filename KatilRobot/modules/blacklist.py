@@ -460,7 +460,7 @@ Admin only:
  ❍ /unblacklist <triggers>*:* Remove triggers from the blacklist. Same newline logic applies here, so you can remove multiple triggers at once.
  ❍ /blacklistmode <off/del/warn/ban/kick/mute/tban/tmute>*:* Action to perform when someone sends blacklisted words.
 
-☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
 """
 
 BLACKLIST_HANDLER = DisableAbleCommandHandler(

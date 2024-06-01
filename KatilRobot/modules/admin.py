@@ -929,7 +929,7 @@ __help__ = """
 » /setdesc*:* sᴇᴛ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ
 » /setsticker*:* sᴇᴛ ɢʀᴏᴜᴘ sᴛɪᴄᴋᴇʀ
 
-☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc, run_async=True)

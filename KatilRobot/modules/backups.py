@@ -376,7 +376,7 @@ __help__ = """
 
  ❍ /export : ᴇxᴘᴏʀᴛ ɢʀᴏᴜᴘ ᴅᴀᴛᴀ, ᴡʜɪᴄʜ ᴡɪʟʟ ʙᴇ ᴇxᴘᴏʀᴛᴇᴅ ᴀʀᴇ: ʀᴜʟᴇs, ɴᴏᴛᴇs (ᴅᴏᴄᴜᴍᴇɴᴛs, ɪᴍᴀɢᴇs, ᴍᴜsɪᴄ, ᴠɪᴅᴇᴏ, ᴀᴜᴅɪᴏ, ᴠᴏɪᴄᴇ, ᴛᴇxᴛ, ᴛᴇxᴛ ʙᴜᴛᴛᴏɴs) \
 
-☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
 """
 
 IMPORT_HANDLER = CommandHandler("import", import_data, run_async=True)

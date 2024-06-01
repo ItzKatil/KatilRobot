@@ -396,7 +396,7 @@ sᴏᴍᴇᴛɪᴍᴇs, ʏᴏᴜ ᴊᴜsᴛ ᴡᴀɴᴛ ᴛᴏ ᴀᴅᴅ sᴏᴍ
 *ᴀᴅᴍɪɴ ᴏɴʟʏ:*
  ❍ /ᴀʟʟᴏᴡᴄᴏɴɴᴇᴄᴛ <ʏᴇs/ɴᴏ>: ᴀʟʟᴏᴡ ᴀ ᴜsᴇʀ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴀ ᴄʜᴀᴛ
  
- ☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+ ☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
 """
 
 CONNECT_CHAT_HANDLER = CommandHandler(

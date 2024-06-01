@@ -346,7 +346,7 @@ if is_module_loaded(FILENAME):
     ❍ /disablemodule <ᴍᴏᴅᴜʟᴇ ɴᴀᴍᴇ>*:* ᴅɪsᴀʙʟᴇ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ɪɴ ᴛʜᴀᴛ ᴍᴏᴅᴜʟᴇ
     ❍ /listcmds*:* ʟɪsᴛ ᴀʟʟ ᴘᴏssɪʙʟᴇ ᴛᴏɢɢʟᴇᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs
 
-☆............𝙱𝚈 » [Katil](https://t.me/ItzKatil)............☆
+☆............𝙱𝚈 » [Katil](https://t.me/Itz_Kaatil)............☆
     """
 
     __mod_name__ = "♨️Dɪsᴀʙʟᴇ♨️"
